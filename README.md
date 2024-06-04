@@ -25,6 +25,6 @@ In this project, I analyze the presence and relative expression of quorum sensin
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/delaney-beals/Portfolio/blob/main/LW_microcosms.png"> **[Soil microbial communities in Red Butte Canyon](https://github.com/delaney-beals/RedButteCreek)**
+<img align="left" width="250" height="150" src="https://github.com/delaney-beals/Portfolio/blob/main/RBC.jpeg"> **[Soil microbial communities in Red Butte Canyon](https://github.com/delaney-beals/RedButteCreek)**
 In this project, I analyze the presence and relative expression of quorum sensing systems in mixed methane-oxidizing bacterial communities from Lake Washington. The -omics data was originally published by Zheng et al. 2020 (Metagenomic insight into environmentally challenged methane-fed microbial commmunities) and the data is publically available on the IMG JGI database under the study name "Freshwater sediment methanotrophic microbial communities from Lake Washington under simulated oxygen tension."
 
