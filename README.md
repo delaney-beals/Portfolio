@@ -9,4 +9,4 @@ A compilation of my bioinformatics and data visualization I have completed for a
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/delaney-beals/Portfolio/blob/main/whole%20syringe.png"> **[Gradient syringe RNA-seq](https://github.com/delaney-beals/LW13_segments_RNA_seq)**
+<img align="left" width="250" height="150" src="[https://github.com/delaney-beals/Portfolio/blob/main/whole%20syringe.png](https://github.com/delaney-beals/Portfolio/blob/main/Fig3.png)"> **[Gradient syringe RNA-seq](https://github.com/delaney-beals/LW13_segments_RNA_seq)**
